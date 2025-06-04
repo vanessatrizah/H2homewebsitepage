@@ -1,8 +1,9 @@
 {
-  "useSmtp": false,
-  "host": "stmp.gmail.com",
+  "useSmtp": true,
+  "host": "smtp.gmail.com",
   "port": 465,
-  "username": "demo@gmail.com",
-  "password": "demopassword",
-  "recipientEmail": "demo@gmail.com"
+  "encryption": "ssl",
+  "username": "yourgmail@gmail.com",
+  "password": "your_app_password"
 }
+
